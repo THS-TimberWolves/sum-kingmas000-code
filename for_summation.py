@@ -1,4 +1,3 @@
-#for Summation code here
 num1=int(input(""))
 y=1
 total2=0
